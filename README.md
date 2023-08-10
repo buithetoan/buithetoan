@@ -18,6 +18,5 @@
 - 🤔 I’m looking for help with:      "Anything related to what I am currently learning",
 - 📫 How to reach me:                "https://www.facebook.com/toan.bt.678",
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <img src="profile.svg" >
 ---
